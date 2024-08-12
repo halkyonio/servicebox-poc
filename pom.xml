@@ -44,7 +44,7 @@
         <lobmok.version>1.18.32</lobmok.version>
         <sundrio.version>0.200.0</sundrio.version>
         <!-- <sundrio.version>0.103.1</sundrio.version> -->
-        <kubernetes-client.version>6.12.1</kubernetes-client.version>
+        <kubernetes-client.version>6.13.2</kubernetes-client.version>
         <skipITs>true</skipITs>
         <src.format.goal>format</src.format.goal>
         <src.sort.goal>sort</src.sort.goal>
